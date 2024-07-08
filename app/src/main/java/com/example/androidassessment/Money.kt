@@ -1,9 +1,9 @@
-package layout
+package com.example.androidassessment
+
 
 import android.media.Image
-import android.media.TimedText
-import java.time.temporal.TemporalAmount
-import java.util.Date
+import org.w3c.dom.Text
+import java.sql.Date
 
 data class Money(
     var image: String,
